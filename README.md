@@ -1,4 +1,4 @@
-# Guillermo Goitea (ggoitea2)
+# Guillermo Goitea (ggoitea)
 
 Desarrollador de software con +8 años de experiencia profesional (y pasión por programar desde 2002).  
 Especializado en **Laravel** y ecosistema moderno **Full‑Stack** (**Livewire/Alpine.js**, **React + Inertia.js**), con experiencia en **arquitectura**, **performance**, **integraciones** y **DevOps / infraestructura** (Docker, CI/CD, Kubernetes, AWS).
@@ -94,4 +94,4 @@ Liderazgo de proyectos y plataforma:
 ## Contacto
 
 - LinkedIn: https://www.linkedin.com/in/ggoitea/
-- GitHub: https://github.com/ggoitea2
+- GitHub: https://github.com/ggoitea
